@@ -68,7 +68,7 @@ const LoginForm = () => {
             className="username-input-field"
             value={username}
             onChange={onChangeUsername}
-            placeholder="Username"
+            placeholder="Username : rahul"
           />
         </div>
         <div className="input-container">
@@ -81,7 +81,7 @@ const LoginForm = () => {
             className="password-input-field"
             value={password}
             onChange={onChangePassword}
-            placeholder="Password"
+            placeholder="Password : rahul@2021"
           />
         </div>
         {showSubmitError && <p className="error-message">{errorMsg}</p>}
