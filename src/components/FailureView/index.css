@@ -1,0 +1,31 @@
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+  padding: 24px;
+}
+
+.failure-view-image {
+  width: 560px;
+  height: 250px;
+}
+
+.failure-view-text {
+  font-family: Roboto;
+  font-size: 16px;
+  color: #000000;
+  margin: 16px 0;
+}
+
+.failure-view-button {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #4094ef;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}

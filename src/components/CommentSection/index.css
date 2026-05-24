@@ -1,0 +1,20 @@
+.comment-section-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 8px 0;
+}
+
+.comment-section-item {
+  margin-bottom: 4px;
+}
+
+.comment-section-text {
+  font-family: Roboto;
+  font-size: 14px;
+  color: #262626;
+  margin: 0;
+}
+
+.comment-section-username {
+  font-weight: 600;
+}

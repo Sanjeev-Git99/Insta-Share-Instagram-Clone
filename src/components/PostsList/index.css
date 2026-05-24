@@ -1,0 +1,16 @@
+.posts-list-container {
+  width: 100%;
+}
+
+.posts-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
