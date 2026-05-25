@@ -1,6 +1,6 @@
 # 📸 Insta-Share (Instagram Clone)
 
-**Insta-Share** is a pixel-perfect, highly responsive Instagram clone built from scratch using the modern React ecosystem. The application demonstrates state-of-the-art frontend development practices, including secure JWT token-based cookie authentication, dynamic client-side routing, custom slider integrations, interactive liking and commenting, responsive layouts, and robust API error-handling.
+**Insta-Share** is a pixel-perfect, highly responsive Instagram clone built from scratch using the modern React ecosystem. The application demonstrates state-of-the-art frontend development practices, including secure JWT token-based cookie authentication, dynamic client-side routing, custom slider integrations, interactive liking, responsive layouts, and robust API error-handling.
 
 ---
 
